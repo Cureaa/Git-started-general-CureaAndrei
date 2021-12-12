@@ -1,0 +1,35 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 Menlo-Bold;}
+{\colortbl;\red255\green255\blue255;\red170\green171\blue37;\red56\green185\blue199;\red57\green192\blue38;
+\red202\green51\blue35;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c72331\c71682\c18599;\cssrgb\c25546\c77007\c82023;\cssrgb\c25706\c77963\c19557;
+\cssrgb\c83899\c28663\c18026;\csgray\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \CocoaLigature0 commit 5b94b84ef0c86044c40b7b0d612a63004902309d (
+\f1\b \cf3 HEAD -> \cf4 main
+\f0\b0 \cf2 , 
+\f1\b \cf5 origin/main
+\f0\b0 \cf2 , 
+\f1\b \cf5 origin/HEAD
+\f0\b0 \cf2 )\cf6 \
+Author: Cureaa <95228421+Cureaa@users.noreply.github.com>\
+Date:   Sun Dec 12 10:14:18 2021 +0200\
+\
+    fix broken link\
+\
+\cf2 commit faaee5e874f2377608135923ec48714863687e6e\cf6 \
+Author: Cureaa <95228421+Cureaa@users.noreply.github.com>\
+Date:   Sun Dec 12 10:03:25 2021 +0200\
+\
+    3rdtry\
+\
+\cf2 commit 17a0d568da841d980ef638cf309eeae0961940f7\cf6 \
+Author: Cureaa <95228421+Cureaa@users.noreply.github.com>\
+Date:   Sun Dec 12 09:53:15 2021 +0200\
+\
+    Delete lorem_ipsum.txt\
+\
+\cf2 commit 5e36beb4dac2e282a73e35c402856348d0751a3f\cf6 \
+Author: Cureaa <95228421+Cureaa@users.noreply.github.com>}
